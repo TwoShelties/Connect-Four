@@ -12,7 +12,7 @@ let body = document.querySelector("body");
 
 let codeBtn = document.getElementById("code-link");
 codeBtn.addEventListener("click", function () {
-  window.location = "";
+  window.location = "https://github.com/TwoShelties/Connect-Four";
 });
 
 let redChipIcon = document.createElement("div");
